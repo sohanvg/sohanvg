@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @sohanvg
 - 👀 I’m interested in data analytics
-- 🌱 I’m currently pursing my Master's in Information Technology at Arizona State University
+- 🌱 I’m a Master's Graduate in Information Technology from Arizona State University
 - 📫 How to reach me - sohanvg96@gmail.com
 
 <!---
