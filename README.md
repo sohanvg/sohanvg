@@ -10,14 +10,17 @@ Highlighted Projects:
 
 Developed and deployed a Reward Points Server using NestJS, MongoDB, and React, boosting user engagement on a social networking platform.
 Engineered a Chat Server solution with NestJs and MongoDB, optimizing communication channels and data storage.
+
 🛠️ Test Automation and Quality Assurance
 
 Automated API endpoint testing using Postman, ensuring reliability and slashing testing time by 40%.
 Managed comprehensive test plans and cases in Jira, aligning software needs with business objectives.
+
 ☁️ Google Cloud Platform Deployment
 
 Coordinated the deployment of serverless cloud functions on GCP using Terraform, streamlining resource provisioning and deployment.
 Tested and deployed 2nd generation cloud functions, boosting performance and efficiency.
+
 🔧 Enterprise System Optimization and Data Integrity Enhancement
 
 Integrated JDE Enterprise with Oracle SOA Suite and IBM WebSphere, optimizing data pipelines within the ERP environment.
@@ -27,9 +30,11 @@ Academic Projects:
 📊 Customer Risk Assessment and Decision-Making Data Infrastructure
 
 Implemented AWS-based data lake architecture for accurate data transformation, enhancing customer risk assessment.
+
 🔍 Comprehensive Analytics Framework with Data Visualization
 
 Orchestrated extensive analytics with Tableau dashboards, enriching sports statistics and engaging the community through impactful visualizations.
+
 🌡️ Climate Change Impact On Summer Temperatures in Indian Cities
 
 Conducted comprehensive climate change impact research, achieving an 87% accuracy rate in predicting summer temperatures.
